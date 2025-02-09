@@ -5,7 +5,7 @@ Ingin menikmati komik favorit Anda langsung dari perangkat Android? Ikuti pandua
 ## Langkah-langkah Menginstall APK
 
 1. **Unduh APK Manhwaland**
-
+   - Kunjungi tautan berikut untuk mengunduh APK Manhwaland: [Download APK Manhwaland](https://s.id/mnhwlnd). Pastikan Anda mengunduh dari sumber yang terpercaya.
 2. **Aktifkan Sumber Tidak Dikenal**
    - Sebelum menginstall APK, Anda perlu mengaktifkan opsi "Sumber Tidak Dikenal" di perangkat Android Anda:
      - Buka **Pengaturan**.
